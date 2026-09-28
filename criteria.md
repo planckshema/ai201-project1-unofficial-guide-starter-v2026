@@ -57,6 +57,8 @@ in at least 4 of 5 tries.
 
 ## 4. Something about your chunks
 
+Atleast 8/10 chunks I inspect should hold a full complete unit of meaning
+
 <!-- YOU WRITE THIS ONE.
 
      How would you know if your chunks were the right size? Name something
@@ -73,13 +75,19 @@ in at least 4 of 5 tries.
 
 **Why this target:**
 
+If the chunks that we have are not complete sentences or don't form a complete thought, then they will be meaningless
+
 
 
 ---
 
 ## 5. Your choice
 
+Atleast 4/5 questions recieve an answer with the expected result
+
 <!-- YOU WRITE THIS ONE TOO.
+
+
 
      Pick something you actually care about getting right. It could be about
      speed, about refusals, about a particular kind of question your corpus
@@ -90,6 +98,7 @@ in at least 4 of 5 tries.
 
 
 **Why this target:**
+Since the expected result is what we expect from our system, a 4/5 score will help us determine if the system really is using the material to answer the user's questions
 
 
 
