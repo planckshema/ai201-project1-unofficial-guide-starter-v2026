@@ -29,10 +29,18 @@ Shema Planck  Campus-life
 
      Milestone 5. -->
 
+     This is RAG(Retrieval Augmented Generated) system we build where by we use a gemini api model to retrieve and answer questions and it is to answer them based on a specific corpus we choose among the ones we are given.
+
+     We have 4 corpus to choose from.
+
 ## Chunking Strategy
 
 **Chunk size:**
 **Overlap:**
+
+My chunking strategy didn't change that signifinacntly given that my corpus of choice was campus life and I had 88 chunks from 88 documents. I reduced the size to 600 because my longest character size file has 593 and if we happen to have longer files I want to use a different chunk and maybe overlap.
+
+Overlap will depend on paragraphs, complete paragraphs
 
 <!-- What about YOUR documents made you pick these numbers? Short posts and
      long sectioned guides don't want the same chunking, and "800 seemed
@@ -43,6 +51,8 @@ Shema Planck  Campus-life
      more than pretending you got it right first time.
 
      Milestone 3. -->
+
+
 
 ## Sample Chunks
 
@@ -165,8 +175,10 @@ Sources retrieved: admin_declaring_a_major.txt, advising_registration.txt, cours
      Milestone 5. -->
 
 **1.**
+I used AI working through the milestones to understand what I am being asked and mostly as a guide
 
 **2.**
+I used AI also when it came to coding the split documents function for milestone 3, I first understood what it is I am being asked to do and AI helped me generate the code 
 
 <!-- ── Stretch features ─────────────────────────────────────────────────────
      Doing one? Say so here BEFORE you start. A feature this README never
